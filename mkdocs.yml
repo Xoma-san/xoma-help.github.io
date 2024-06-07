@@ -1,0 +1,16 @@
+site_name: Справочник полезных знаний
+theme:
+  name: material
+  logo: logo_big3.jpg
+  favicon: logo_fav.jpg
+  features: 
+    - navigation.tabs
+nav:
+    - Шаблоны документов:
+      - Описание применения: Opisanie-primenenia.md
+      - Описание программы: Opisanie-programmi.md
+      - Формуляр: Formular.md
+markdown_extensions:
+ - pymdownx.superfences
+extra_css:
+  - material-styles.css
