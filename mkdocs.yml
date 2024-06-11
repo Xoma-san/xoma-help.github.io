@@ -3,6 +3,7 @@ theme:
   name: material
   logo: logo_big3.jpg
   favicon: logo_fav.jpg
+  language: ru
   features: 
     - navigation.tabs
 nav:
