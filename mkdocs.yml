@@ -7,10 +7,18 @@ theme:
   features: 
     - navigation.tabs
 nav:
-    - Шаблоны документов:
+  - Главная: index.md
+  - ГОСТы: GOST.md
+  - Шаблоны: 
       - Описание применения: Opisanie-primenenia.md
       - Описание программы: Opisanie-programmi.md
       - Формуляр: Formular.md
+  - Git с "нуля", если ты "ноль": Git-help.md
+  - Общее об оформлении: Useful.md
+  - Библиотека: libs.md
+  - Инструменты: Tools.md
+  - О людях: about.md
+
 markdown_extensions:
  - pymdownx.superfences
 extra_css:
