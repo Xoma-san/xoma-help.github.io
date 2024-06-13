@@ -13,7 +13,11 @@ nav:
       - Описание применения: Opisanie-primenenia.md
       - Описание программы: Opisanie-programmi.md
       - Формуляр: Formular.md
-  - Git с "нуля", если ты "ноль": Git-help.md
+  - Git с "нуля", если ты "ноль": 
+      - Перед началом знакомства: Git-help-do.md
+      - Полезная информация: Git-help-sprav.md
+      - Управление репозиториями: Git-help-rep.md
+      - Работа с Git: Git-help-rab.md
   - Общее об оформлении: Useful.md
   - Библиотека: libs.md
   - Инструменты: Tools.md
