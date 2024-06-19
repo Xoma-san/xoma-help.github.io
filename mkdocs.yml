@@ -9,6 +9,13 @@ theme:
 nav:
   - Главная: index.md
   - ГОСТы: GOST.md
+    -
+    -
+    -
+    -
+    -
+    -
+    -
   - Шаблоны: 
       - Описание применения: Opisanie-primenenia.md
       - Описание программы: Opisanie-programmi.md
